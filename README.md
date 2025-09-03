@@ -1,4 +1,4 @@
-# Flutter Learning Tasks
+# Lista de Tarefas com Flutter
 
 Um aplicativo de lista de tarefas construído em **Flutter**, voltado para aprendizado e prática com widgets fundamentais, layout, gerenciamento de estado e interatividade.
 
