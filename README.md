@@ -50,8 +50,3 @@ main.dart → ponto de entrada do app e definição do tema.
 HomeScreen → tela principal com lista de tarefas, botão de adicionar e diálogo.
 
 _criarItemTarefa → função que retorna cada item estilizado da lista.
-
-Captura de Tela
-
-
-Captura de Tela
